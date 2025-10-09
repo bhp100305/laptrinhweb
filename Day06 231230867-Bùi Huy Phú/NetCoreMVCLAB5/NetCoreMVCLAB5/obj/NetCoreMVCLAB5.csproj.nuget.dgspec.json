@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\laptrinhweb\\Day06 231230867-Bùi Huy Phú\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj": {
+    "C:\\Users\\Admin\\Desktop\\laptrinhweb\\Day06 231230867-Bùi Huy Phú\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\laptrinhweb\\Day06 231230867-Bùi Huy Phú\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj",
         "projectName": "NetCoreMVCLAB5",
-        "projectPath": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj",
-        "packagesPath": "C:\\Users\\Pham Danh Pho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\laptrinhweb\\Day06 231230867-Bùi Huy Phú\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\NetCoreMVCLAB5.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\laptrinhweb\\Day06 231230867-Bùi Huy Phú\\NetCoreMVCLAB5\\NetCoreMVCLAB5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pham Danh Pho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

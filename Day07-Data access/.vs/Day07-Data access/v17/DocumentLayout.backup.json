@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\controllers\\cthoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\models\\cthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\models\\cthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\models\\k64cnt2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\models\\k64cnt2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|c:\\users\\admin\\documents\\lap tring truc quan\\day07-data access\\day07-data access\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{665A47B6-E71C-4FF7-A5B9-2ADC69D51053}|Day07-Data access\\Day07-Data access.csproj|solutionrelative:day07-data access\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanTrisController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\QuanTrisController.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Controllers\\QuanTrisController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\QuanTrisController.cs",
+              "RelativeToolTip": "Day07-Data access\\Controllers\\QuanTrisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:14:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Day07-Data access\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:13:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "Day07-Data access\\Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:12:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CtHoaDonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\CtHoaDonsController.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Controllers\\CtHoaDonsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\CtHoaDonsController.cs",
+              "RelativeToolTip": "Day07-Data access\\Controllers\\CtHoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:11:18.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\SanPham.cs",
+              "RelativeToolTip": "Day07-Data access\\Models\\SanPham.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:09:56.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanTri.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\QuanTri.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Models\\QuanTri.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\QuanTri.cs",
+              "RelativeToolTip": "Day07-Data access\\Models\\QuanTri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:09:47.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Models\\LoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "Day07-Data access\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:09:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Day07-Data access\\Models\\HoaDon.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA8wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:04:17.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CtHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\CtHoaDon.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Models\\CtHoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\CtHoaDon.cs",
+              "RelativeToolTip": "Day07-Data access\\Models\\CtHoaDon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:04:36.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day07-Data access\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Day07-Data access\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T15:37:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "Day07-Data access\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:31:32.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day07-Data access\\Views\\KhachHangs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeToolTip": "Day07-Data access\\Views\\KhachHangs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T15:27:12.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Day07-Data access\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:24:49.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Day07-Data access\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:59:22.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "K64cnt2dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\K64cnt2dbContext.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Models\\K64cnt2dbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Models\\K64cnt2dbContext.cs",
+              "RelativeToolTip": "Day07-Data access\\Models\\K64cnt2dbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:29:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Program.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Program.cs",
+              "RelativeToolTip": "Day07-Data access\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:07:36.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Day07-Data access\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\appsettings.Development.json",
+              "RelativeToolTip": "Day07-Data access\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T14:02:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day07-Data access\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\lap tring truc quan\\Day07-Data access\\Day07-Data access\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day07-Data access\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:46:08.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
